@@ -1,0 +1,17 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "find friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "testcom",
+    "start": "node server.js"
+  },
+  "author": "Blake",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
