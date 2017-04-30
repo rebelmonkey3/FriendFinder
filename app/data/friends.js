@@ -1,4 +1,9 @@
+var friends = []
 
+
+
+
+module.exports = friends;
 // example of object in array
 
 // {
